@@ -1,0 +1,9 @@
+--> Checkbox ranges and responsive
+
+--> Reset functionality should be modified
+
+--> Create db tables for day_schedule and absentees
+
+--> Creating sessions for the preceptor based on logins
+
+--> Data managing from form to database// csv or db should be decided
